@@ -1,0 +1,40 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Bruno",
+            "contrasena": "1234",
+            "historial_rutas": [1, 2, 6]
+        },
+        {
+            "id": 2,
+            "nombre": "Rodrigo",
+            "contrasena": "1111",
+            "historial_rutas": [3, 4, 1]
+        },
+        {
+            "id": 3,
+            "nombre": "usuario1",
+            "contrasena": "1234",
+            "historial_rutas": [5, 6, 2]
+        },
+        {
+            "id": 4,
+            "nombre": "usuario2",
+            "contrasena": "2222",
+            "historial_rutas": [1, 6, 3]
+        },
+        {
+            "id": 5,
+            "nombre": "usuario3",
+            "contrasena": "3333",
+            "historial_rutas": [2, 5, 4]
+        },
+        {
+            "id": 6,
+            "nombre": "usuario4",
+            "contrasena": "0000",
+            "historial_rutas": [5, 1, 2]
+        }
+    ]
+}

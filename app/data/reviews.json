@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1, 
+        "id_destino": 1, 
+        "id_usuario": 1, 
+        "calificacion": 4, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 1, 
+        "id_destino": 2, 
+        "id_usuario": 2, 
+        "calificacion": 4, 
+        "comentario": "Excelente servicio"
+    },
+    {
+        "id": 1, 
+        "id_destino": 3, 
+        "id_usuario": 3, 
+        "calificacion": 4, 
+        "comentario": "Buenos precios y buena atencion"
+    }, 
+    {
+        "id": 2, 
+        "id_destino": 2, 
+        "id_usuario": 2, 
+        "calificacion": 5, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 2, 
+        "id_destino": 1, 
+        "id_usuario": 1, 
+        "calificacion": 5, 
+        "comentario": "Muy ricas sus comidas"
+    },
+    {
+        "id": 2, 
+        "id_destino": 3, 
+        "id_usuario": 3, 
+        "calificacion": 5, 
+        "comentario": "Recomendado"
+    },   
+    {
+        "id": 3, 
+        "id_destino": 3, 
+        "id_usuario": 3, 
+        "calificacion": 5, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 3, 
+        "id_destino": 1, 
+        "id_usuario": 1, 
+        "calificacion": 5, 
+        "comentario": "Excelente atencion"
+    },
+    {
+        "id": 3, 
+        "id_destino": 4, 
+        "id_usuario": 4, 
+        "calificacion": 5, 
+        "comentario": "Muy buen lugar para ir con la familia"
+    },  
+    {
+        "id": 4, 
+        "id_destino": 4, 
+        "id_usuario": 4, 
+        "calificacion": 4, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 4, 
+        "id_destino": 3, 
+        "id_usuario": 3, 
+        "calificacion": 4, 
+        "comentario": "Tienen buenos precios"
+    },
+    {
+        "id": 4, 
+        "id_destino": 5, 
+        "id_usuario": 5, 
+        "calificacion": 4, 
+        "comentario": "Recomendado"
+    },
+    {
+        "id": 5, 
+        "id_destino": 5, 
+        "id_usuario": 5, 
+        "calificacion": 5, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 5, 
+        "id_destino": 4, 
+        "id_usuario": 4, 
+        "calificacion": 5, 
+        "comentario": "Tienen buenos eventos"
+    },
+    {
+        "id": 5, 
+        "id_destino": 6, 
+        "id_usuario": 6, 
+        "calificacion": 5, 
+        "comentario": "Excelente atencion"
+    },
+    {
+        "id": 6, 
+        "id_destino": 6, 
+        "id_usuario": 6, 
+        "calificacion": 5, 
+        "comentario": "Este restaurante es excelente"
+    },
+    {
+        "id": 6, 
+        "id_destino": 5, 
+        "id_usuario": 5, 
+        "calificacion": 5, 
+        "comentario": "Muy ricas sus comidas"
+    },
+    {
+        "id": 6, 
+        "id_destino": 4, 
+        "id_usuario": 4, 
+        "calificacion": 5, 
+        "comentario": "Buenos precios y buena atencion"
+    },
+    {
+        "id": 7, 
+        "id_destino": 1, 
+        "id_usuario": 1, 
+        "calificacion": 5, 
+        "comentario": "es bueno"
+    }
+]

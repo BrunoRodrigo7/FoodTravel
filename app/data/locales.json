@@ -1,0 +1,78 @@
+[
+    {
+       "id": 1,
+       "nombre": "Bella Italia",
+       "tipo_cocina": "Italiana",
+       "ingredientes": ["pastas", "queso", "verduras"],
+       "precio_minimo": 2000,
+       "precio_maximo": 90000,
+       "popularidad": 4,
+       "id_ubicacion": 1,
+       "disponibilidad": "Si",
+       "imagen": "image_1.png"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Taqueria Rosa Negra",
+        "tipo_cocina": "Mexicana",
+        "ingredientes": ["tortillas", "carnes", "verduras"],
+        "precio_minimo": 5.000,
+        "precio_maximo": 90000,
+        "popularidad": 5,
+        "id_ubicacion": 2,
+        "disponibilidad": "No",
+        "imagen": "image_2.png"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Punto Parrillada",
+        "tipo_cocina": "Parrilla",
+        "ingredientes": ["carne", "verduras", "queso"],
+        "precio_minimo": 5000,
+        "precio_maximo": 100000,
+        "popularidad": 5,
+        "id_ubicacion": 3,
+        "disponibilidad": "Si",
+        "imagen": "image_3.png"
+         
+    },
+    {
+        "id": 4,
+        "nombre": "Tao Tao Restaurant",
+        "tipo_cocina": "Oriental",
+        "ingredientes": ["pescados", "arroz", "verduras"],
+        "precio_minimo": 3000,
+        "precio_maximo": 80000,
+        "popularidad": 4,
+        "id_ubicacion": 4,
+        "disponibilidad": "No",
+        "imagen": "image_4.png"
+    },
+    {
+        "id": 5,
+        "nombre": "La Cabana",
+        "tipo_cocina": "Boliviana",
+        "ingredientes": ["carnes", "verduras", "especias"],
+        "precio_minimo": 3000,
+        "precio_maximo": 80000,
+        "popularidad": 5,
+        "id_ubicacion": 5,
+        "disponibilidad": "Si",
+        "imagen": "image_5.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Pizzeria Kentucky",
+        "tipo_cocina": "Italiana",
+        "ingredientes": ["Verduras", "harina", "queso"],
+        "precio_maximo": 5000,
+        "precio_minimo": 90000,
+        "popularidad": 5,
+        "id_ubicacion": 6,
+        "disponibilidad": "Si",
+        "imagen": "image_6.png"
+        
+    }
+]

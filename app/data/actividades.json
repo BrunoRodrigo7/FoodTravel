@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Karaoke en Parejas",
+        "local_id": 1,
+        "id_ubicacion": 1,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-06T20:00:00"
+    },
+    {
+        "id": 1,
+        "nombre": "Grupo local en vivo",
+        "local_id": 1,
+        "id_ubicacion": 1,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-06T23:00:00"
+    },
+    {
+        "id": 2,
+        "nombre": "Torneo de Billar",
+        "local_id": 2,
+        "id_ubicacion": 2,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-06T21:00:00"
+    },
+    {
+        "id": 2,
+        "nombre": "Banda local en vivo",
+        "local_id": 2,
+        "id_ubicacion": 2,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-06T23:00:00"
+    },
+    {
+        "id": 3,
+        "nombre": "Noche de Baile",
+        "local_id": 3,
+        "id_ubicacion": 3,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-08T21:00:00"
+    },
+    {
+        "id": 3,
+        "nombre": "Concurso de karaoke",
+        "local_id": 3,
+        "id_ubicacion": 3,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-08T23:00:00"
+    },
+    {
+        "id": 4,
+        "nombre": "Bandas en vivo",
+        "local_id": 4,
+        "id_ubicacion": 4,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-05T13:00:00"
+    },
+    {
+        "id": 5,
+        "nombre": "Noche de Solteros",
+        "local_id": 5,
+        "id_ubicacion": 5,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-09T22:00:00"
+    },
+    {
+        "id": 6,
+        "nombre": "Bandas en vivo",
+        "local_id": 6,
+        "id_ubicacion": 6,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-10T20:00:00"
+    },
+    {
+        "id": 6,
+        "nombre": "Noche de baile",
+        "local_id": 6,
+        "id_ubicacion": 6,
+        "asistencia": "Confirmada",
+        "hora_inicio": "2023-08-10T23:00:00"
+    }
+]
